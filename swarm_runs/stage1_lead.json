@@ -1,0 +1,41 @@
+{
+  "project_title": "AstroGrid: Unified Multi-Messenger Observational Astrophysics Platform",
+  "repo_name": "astrogrid-observatory",
+  "mission": "To engineer a scalable, real-time pipeline for processing, calibrating, and analyzing multi-wavelength astronomical data, enabling automated discovery of transient events, precise astrometry, and deep-field characterization through a modular, high-performance computing architecture.",
+  "done_criteria": [
+    "All 25 modules implemented with 95%+ unit test coverage and integrated into a CI/CD pipeline.",
+    "End-to-end latency from raw FITS ingestion to VOEvent alert generation under 5 seconds for transient candidates.",
+    "Astrometric precision validated against Gaia DR3 reference frame with sub-microarcsecond residuals.",
+    "Photometric calibration accuracy within 1% error across all supported filters.",
+    "System capable of processing 10TB of raw survey data per day on a standard HPC cluster.",
+    "Full API documentation and interactive Jupyter notebook tutorials for all core modules.",
+    "Successful simulation of a multi-messenger event (GRB + GW) with correct cross-correlation and alert dispatch."
+  ],
+  "target_modules": [
+    "fits_header_wcs_parser",
+    "celestial_coordinate_transform",
+    "healpix_spherical_pixelator",
+    "wcs_tangent_solver",
+    "atmospheric_extinction_model",
+    "cosmic_ray_lacosmic",
+    "psf_fitting_engine",
+    "aperture_photometry",
+    "light_curve_detrender",
+    "transit_bls_detector",
+    "radial_velocity_solver",
+    "doppler_redshift_estimator",
+    "stellar_spectral_classifier",
+    "stellar_isochrone_interpolator",
+    "supernova_arnett_model",
+    "fast_radio_burst_detector",
+    "radio_interferometry_synthesizer",
+    "stokes_polarimetry_engine",
+    "gravitational_lensing_engine",
+    "nfw_dark_matter_halo",
+    "solar_system_ephemeris",
+    "keplerian_orbit_engine",
+    "synoptic_sky_indexer",
+    "multi_messenger_correlator",
+    "voevent_alert_broker"
+  ]
+}
