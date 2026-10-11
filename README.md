@@ -1,3 +1,5 @@
+i have not written any line of code, this was purely testing my harness and my api limits.
+the initial prompt was build an astronomy project, happy it came till here
 THIS WAS BUILT BY 339 AI AGENTS, THERE ARE SOME ERRORS IN THIS. INITITALLY THE PLAN WAS 500 AGENTS BUT DUE TO SOME ISSUES 500 IS TAKING LONGER THAN EXPECTED, PROGRESS TILL 339 IS HERE AND THE QA DESK AND THE EDITORIAL ARE LEFT TO RUN.
 
 # AstroGrid: Unified Multi-Messenger Observational Astrophysics Platform
