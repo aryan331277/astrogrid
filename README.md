@@ -1,3 +1,5 @@
+THIS WAS BUILT BY 339 AI AGENTS, THERE ARE SOME ERRORS IN THIS. INITITALLY THE PLAN WAS 500 AGENTS BUT DUE TO SOME ISSUES 500 IS TAKING LONGER THAN EXPECTED, PROGRESS TILL 339 IS HERE AND THE QA DESK AND THE EDITORIAL ARE LEFT TO RUN.
+
 # AstroGrid: Unified Multi-Messenger Observational Astrophysics Platform
 
 **Mission**: To engineer a scalable, real-time pipeline for processing, calibrating, and analyzing multi-wavelength astronomical data, enabling automated discovery of transient events, precise astrometry, and deep-field characterization through a modular, high-performance computing architecture.
